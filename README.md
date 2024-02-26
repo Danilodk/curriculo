@@ -1,5 +1,3 @@
-# quem_sou_eu
-
 # Danilo Araujo
 
 ## Sobre Mim
