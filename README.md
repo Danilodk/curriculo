@@ -17,7 +17,7 @@ Sou um desenvolvedor entusiasmado com paixão por criar soluções inovadoras. S
 - pythonista_(https://github.com/danilodk/pythonista): Este é um programa simples desenvolvido em Python para consultar os aniversariantes da igreja Reviver. Ele permite aos usuários visualizar os aniversariantes de cada mês de forma fácil e rápida. Utilizando pandas e tabulate, o programa apresenta os dados em um formato tabular elegante, proporcionando uma experiência de usuário intuitiva.
 
 ## Contato
--Whatsapp: 11 99888-2640
+- Whatsapp: 11 99888-2640
 - Email: damdanilo2020@icloud.com
 - LinkedIn: danilo araujo(https://www.linkedin.com/in/danilo-ara%C3%BAjo-3592501b8/)
 - GitHub: danilo_araujo(https://github.com/danilodk)
