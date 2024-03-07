@@ -8,7 +8,7 @@ Sou um desenvolvedor entusiasmado com paixão por criar soluções inovadoras. S
 - Frameworks: Node.js, Express.js
 - Banco de Dados: MySQL, MongoDB, SQLite, MariaDB
 - Ferramentas: Git, NetBeans, Visual Studio Code
-- Outros: Inglês técnico, espanhol básico
+- Outros: Inglês fluente, espanhol fluente
 
 ## Projetos Destacados
 - Genrenciaddor de produtos(https://github.com/danilodk/banco_dados_mais_formulario): Este projeto consiste em um sistema simples de gerenciamento de produtos desenvolvido utilizando Node.js, Express.js e SQLite. O sistema permite aos usuários adicionar, visualizar e excluir produtos, armazenando as informações em um banco de dados SQLite. Utilizando HTML5, CSS3 e JavaScript, o sistema oferece uma interface amigável para interação com o banco de dados, proporcionando uma experiência de usuário intuitiva e eficiente.
